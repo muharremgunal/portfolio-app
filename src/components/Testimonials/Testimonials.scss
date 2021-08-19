@@ -1,0 +1,30 @@
+.testimonials {
+  color: #100e17;
+  text-align: center;
+  margin: auto;
+  padding: 8rem 2rem 0 2rem;
+  h1 {
+    margin-bottom: 2rem;
+    font-size: 2rem;
+    text-decoration: underline;
+  }
+  .colluage {
+    margin-bottom: 7rem;
+    font-size: 20px;
+  }
+  img {
+    width: 8rem;
+    border-radius: 100%;
+    margin: 0 auto 3rem auto;
+  }
+  .comment {
+    font-size: 23px;
+    margin-bottom: 3rem;
+    max-width: 600px;
+    margin: 0 auto 4rem auto;
+  }
+  .role {
+    font-size: 17px;
+    margin-bottom: 2rem;
+  }
+}

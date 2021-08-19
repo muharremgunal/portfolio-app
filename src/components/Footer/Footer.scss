@@ -1,0 +1,131 @@
+$primary-color: #7510f7;
+
+.footer {
+  margin-top: 15rem;
+  &__up {
+    position: relative;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    background-color: #100e17;
+    max-width: 1200px;
+    margin: 0 auto;
+    margin-bottom: -6rem;
+    padding: 4rem 5rem;
+    color: #fff;
+    border-radius: 25px;
+    text-align: center;
+    z-index: 2;
+    @media (max-width: 1250px) {
+      max-width: 1000px;
+    }
+    @media (max-width: 1000px) {
+      max-width: 850px;
+      padding: 3rem 4rem;
+    }
+    @media (max-width: 850px) {
+      max-width: 750px;
+      padding: 2.5rem 3.5rem;
+    }
+    @media (max-width: 768px) {
+      max-width: 650px;
+      display: block;
+      padding: 1.5rem 1rem;
+    }
+    @media (max-width: 650px) {
+      max-width: 500px;
+    }
+    @media (max-width: 500px) {
+      max-width: 400px;
+      padding: 1.5rem 0;
+    }
+    @media (max-width: 400px) {
+      max-width: 360px;
+      padding: 1rem 0;
+    }
+
+    p {
+      font-size: 1.2rem;
+      @media (max-width: 768px) {
+        margin: 1rem 0;
+      }
+    }
+
+    button {
+      padding: 0.8rem 3rem;
+      background: transparent;
+      border-radius: 50px;
+      border: 2px solid $primary-color;
+      color: #fff;
+      font-size: 1.2rem;
+      cursor: pointer;
+      transition: background 0.3s ease-in;
+      @media (max-width: 768px) {
+        font-size: 1rem;
+        padding: 0.6rem 1rem;
+      }
+
+      &:hover {
+        background: $primary-color;
+      }
+    }
+  }
+
+  &__down {
+    background: $primary-color;
+    text-align: center;
+    color: #fff;
+    padding: 3rem 0.5rem;
+
+    &__container {
+      max-width: 700px;
+      margin: 5rem auto 0 auto;
+
+      h1 {
+        margin-bottom: 2rem;
+      }
+      h2 {
+        font-weight: 400;
+        padding: 0.4rem;
+        margin-bottom: 1rem;
+      }
+
+      ul {
+        display: flex;
+        align-items: center;
+        justify-content: space-between;
+        list-style: none;
+        max-width: 300px;
+        margin: auto;
+        padding: 3rem 1rem;
+        @media (max-width: 768px) {
+          max-width: 350px;
+        }
+
+        li {
+          border: 2px solid #eee;
+          padding: 0.9rem 1rem 0.8rem 1rem;
+          border-radius: 100%;
+          transition: background 0.3s ease-in;
+          cursor: pointer;
+          &:hover {
+            svg {
+              color: #7510f7;
+            }
+
+            background-color: #fff;
+          }
+
+          a {
+            color: #eee;
+            text-decoration: none;
+
+            svg {
+              font-size: 1.2rem;
+            }
+          }
+        }
+      }
+    }
+  }
+}
