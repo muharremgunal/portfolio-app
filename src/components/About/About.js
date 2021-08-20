@@ -11,12 +11,12 @@ const About = () => {
             Hi, I’m Muharrem. <br /> Nice to see you.
           </h1>
           <p>
-            I graduated from Anadolu University as Industrial Designer. When i
-            realize that software makes me exciting which has similarities with
-            my department, i decided to give a chance myself. So, here i am.
-            Below you can see the skills i can offer. I'm also currently looking
-            for my next development position, don't hesitate to reach out if you
-            want to talk!
+            I graduated from Industrial Design department of Anadolu University.
+            When i realize that software makes me exciting which has
+            similarities with my department, i decided to give a chance myself.
+            So, here i am. Below you can see the skills i can offer. I'm also
+            currently looking for my next development position, don't hesitate
+            to reach out if you want to talk!
           </p>
         </div>
       </div>
