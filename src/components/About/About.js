@@ -14,9 +14,9 @@ const About = () => {
             I graduated from Anadolu University as Industrial Designer. When i
             realize that software makes me exciting which has similarities with
             my department, i decided to give a chance myself. So, here i am.
-            Below you can see the skills i can offer joyful. I'm also currently
-            looking for my next development position, don't hesitate to reach
-            out if you want to talk!
+            Below you can see the skills i can offer. I'm also currently looking
+            for my next development position, don't hesitate to reach out if you
+            want to talk!
           </p>
         </div>
       </div>
