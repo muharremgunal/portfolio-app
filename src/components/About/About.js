@@ -11,12 +11,12 @@ const About = () => {
             Hi, I’m Muharrem. <br /> Nice to see you.
           </h1>
           <p>
-            I graduated from Anadolu University as Industrial Design. When i
+            I graduated from Anadolu University as Industrial Designer. When i
             realize that software makes me exciting which has similarities with
-            my department,i decided to give a chance myself.So, here i am. Below
-            you can see the skills i can offer joyful. I'm also currently
-            looking for my next development position don't hesitate to reach out
-            if you want to talk!
+            my department, i decided to give a chance myself. So, here i am.
+            Below you can see the skills i can offer joyful. I'm also currently
+            looking for my next development position, don't hesitate to reach
+            out if you want to talk!
           </p>
         </div>
       </div>
@@ -24,8 +24,8 @@ const About = () => {
         <div className="about__skill__designer">
           <h2>UI Designer</h2>
           <p>
-            Design has been always part of me.I always aim to simplicity on
-            every projects.
+            Design has been always part of me. I always aim to create simplicity
+            on every projects.
           </p>
           <h4>Things I can do for you</h4>
           <p>UI Design, Web Design</p>
@@ -43,9 +43,9 @@ const About = () => {
           </p>
           <h4>Software I can offer you</h4>
           <p>
-            Html5,Css3,Scss,Bootstrap, MaterialUI,Styled-Component,
+            Html5, Css3, Scss, Bootstrap, MaterialUI, Styled-Component,
             <br />
-            Javascript,React,Redux
+            Javascript, React, Redux
           </p>
         </div>
       </div>

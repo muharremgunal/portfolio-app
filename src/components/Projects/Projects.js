@@ -4,28 +4,28 @@ import "./Projects.scss";
 
 const movieapp = "Movie App";
 const moviecontent =
-  " This is one my favourite projects.I love having Movie watch in my life.So I decided to make meaningfull for myself.Also it is full responsive for every device.";
-const createdwithmovieapp = "React Hooks, JScript,React";
+  " This is one my favourite projects. I love having Movie watch in my life.So I decided to make meaningfull for myself. Also it is full responsive for every device.";
+const createdwithmovieapp = "React Hooks, Js, React";
 const sourcenetmovie = "https://boring-leavitt-68be63.netlify.app/";
 
 const Pizza = "Pizza Web Design";
 const Pizzacontent =
   "I can easily say that pizza has huge impact in my daily taste.In this website you can easliy search recipe of pizzas.It is full responsive and has reusable components in every part.";
-const createdwithPizza = "Html5, Css3,Js,React,MaterialUI";
+const createdwithPizza = "Html5, Css3, Js, React, MaterialUI";
 const sourcePizza =
   "https://611b8266973c5e1068a62b25--nifty-engelbart-25fb59.netlify.app/";
 
 const Dolla = "Dolla Banking";
 const Dollacontent =
   "This is a kind of banking website template. You can check it out.";
-const createdwithDolla = "Html5, Css3, StyleComponent,Js,React";
+const createdwithDolla = "Html5, Css3, StyleComponent, Js, React";
 const sourceDolla =
   "https://611b8830b338d51ab759b990--quirky-albattani-f4a144.netlify.app/";
 
 const Investment = "Investment";
 const Investmentcontent =
   "This is a kind of investment website template. You can check it out.";
-const createdwithInvestment = "React Hooks, RestAPI,Js,React";
+const createdwithInvestment = "React Hooks, RestAPI, Js, React";
 const sourceInvestment =
   "https://611b889dabe679e81ac9508b--boring-borg-cc9aad.netlify.app/";
 

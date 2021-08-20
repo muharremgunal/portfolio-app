@@ -26,9 +26,9 @@ const Testimonials = () => {
         <div>
           <img src="./img/batuhan yılmaz.jpg" alt="profile" />
           <p className="comment">
-            “In the begining, he started with design.After that with realising
+            “In the begining, he started with design. After that with realising
             how software is exciting for him , he decided to switch his career
-            in this way. He made it and is now so powerfull developer. I really
+            in this way. He made it and is now so powerful developer. I really
             enjoy while working with him. ”
           </p>
           <h3>Ahmet Batuhan Yılmaz</h3>
@@ -53,7 +53,7 @@ const Testimonials = () => {
             trust with a project from start to finish.”
           </p>
           <h3>Rıfat Can Gürbüz</h3>
-          <p className="role">Frontend Developer/Designer</p>
+          <p className="role">Senior Frontend Developer</p>
         </div>
       </Slider>
     </div>
